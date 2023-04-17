@@ -46,7 +46,7 @@ Since this Project uses MYSQL, it needs to password to create and use the databa
 ## How to Submit your Nonce:
 1. Run the Dashboard.py file
 2. Enter your login Credentials
-3. When asked to enter the action, enter 'B'
+3. When asked to enter the action, enter 'S'
 4. Write/Paste the Nonce
 5. Wait for the next Block to be mined to get the reward
 
@@ -55,7 +55,7 @@ Since this Project uses MYSQL, it needs to password to create and use the databa
 2. MySQL
 
 ## Demo
- [Demo Video Link](https://drive.google.com/)
+ [Demo Video Link](https://drive.google.com/file/d/1ej4kJHDfKSB4aXe8arTJvv8t1-Zh09S5/view?usp=share_link)
 
 
 ## Requirements needed for the project to run:
