@@ -14,7 +14,7 @@ Since this Project uses MYSQL, it needs to password to create and use the databa
 
 ## How to setup the Blockchain:
 1. Open the .env file
-2. In the .env file, replace the '123456' with the password of your MYSQL Root account
+2. In the .env file, replace the '12345' with the password of your MYSQL Root account
 3. Run Setup.py
 
 ## How to Create Accounts:
@@ -50,9 +50,19 @@ Since this Project uses MYSQL, it needs to password to create and use the databa
 4. Write/Paste the Nonce
 5. Wait for the next Block to be mined to get the reward
 
+<<<<<<< HEAD
 ## Tech Stack Used:
 1. Python
 2. MySQL
 
 ##
  [Demo Video Link](https://drive.google.com/)
+=======
+## Requirements needed for the project to run:
+1. Python 3  
+    The Python Packages are required to be installed Manually  
+      i.	PyNaCl - `pip install pynacl`  
+      ii.	Msql.connector – `pip install mysql.connector`  
+      or you can just run `pip install -r requirements.txt`  
+2. MySQL 8.0
+>>>>>>> a7bd6b4101bf1b4feedcb52c9471c20c303c08a2
